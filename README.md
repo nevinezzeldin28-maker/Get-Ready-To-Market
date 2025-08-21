@@ -29,3 +29,15 @@ Get Ready To Market is a digital marketing project for Magnolia Coffee Company, 
 - AIDA framework for customer journey mapping
 - Strategic planning
 
+## My Role
+Project lead: conducted research, built personas, mapped customer journey, and developed strategic recommendations.
+
+## Results / What I Learned
+- Developed actionable marketing strategies for a real-world scenario
+- Improved skills in market analysis, persona creation, and digital marketing planning
+
+## Files
+- [Project Report PDF](./deliverables/Get-Ready-To-Market-Project.pdf)
+- [SWOT Analysis Image](./images/swot.png)
+- [Customer Persona Image](./images/persona.png)
+
