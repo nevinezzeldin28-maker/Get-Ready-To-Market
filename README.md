@@ -36,8 +36,3 @@ Project lead: conducted research, built personas, mapped customer journey, and d
 - Developed actionable marketing strategies for a real-world scenario
 - Improved skills in market analysis, persona creation, and digital marketing planning
 
-## Files
-- [Project Report PDF](./deliverables/Get-Ready-To-Market-Project.pdf)
-- [SWOT Analysis Image](./images/swot.png)
-- [Customer Persona Image](./images/persona.png)
-
