@@ -32,7 +32,7 @@ Get Ready To Market is a digital marketing project for Magnolia Coffee Company, 
 ## My Role
 Project lead: conducted research, built personas, mapped customer journey, and developed strategic recommendations.
 
-## Results / What I Learned
+## What I Learned
 - Developed actionable marketing strategies for a real-world scenario
 - Improved skills in market analysis, persona creation, and digital marketing planning
 
